@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://res.cloudinary.com/dkd5jyhic/image/upload/v1593686485/shop_ob9ixs.jpg");
+    background-color: #fbd449;
+    background-repeat: no-repeat;
+  }
+  h3 {
+      margin-left: 200px;
+      margin-right: 200px;
+      margin-top: 525px;
+      position: absolute;
+      background:white;
+      font-family: sans-serif;
+      font-size: 20px;
+    } 
